@@ -15,7 +15,7 @@
     var demoContent = [
         {
             demo_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico/',
-            img_link: 'https://cadsalud.github.io/images-post/depresion_ent.jpg',
+            img_link: 'https://cadsalud.github.io/images-post/infografia_depresion_img.png',
             code_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico',
             title: 'Depresión en México',
             core_tech: 'R',
