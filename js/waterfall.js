@@ -33,7 +33,7 @@
         code_link: 'https://cadsalud.github.io/2016/09/13/areas-verdes/',
         title: 'Áreas verdes urbanas',
         core_tech: 'R',
-        description: ''
+        description: 'La siguiente infografía muestra algunos datos lamentables que muestran la poca planeación urbana ...'
     }, {
         demo_link: 'https://cadsalud.github.io/2016/09/13/Familia-Mexicana/',
         img_link: 'https://cadsalud.github.io/images-post/familia_ent.jpg',
