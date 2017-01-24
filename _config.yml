@@ -9,7 +9,7 @@
 title: CADsalud
 brief-intro: Centro de Análisis de Datos para la Salud
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://elopezgon.github.io" # the base hostname & protocol for your site
+url: "https://cadsalud.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
