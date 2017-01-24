@@ -10,7 +10,7 @@ author: CADsalud
 {:toc}
 Los adolescentes tienen una sexualidad activa más temprana, por otro lado, presentan mayores tasas de prevención en su primera relación sexual, sin embargo los embarazos con padres adolescentes continúan aumentando. 
 
-<img src="/images-post/infografia_sexualidad_img.png" width="280">
+<img src="/images-post/infografia_sexualidad_img.png" width="380">
 
 
 
