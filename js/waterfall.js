@@ -26,7 +26,7 @@
         code_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico/',
         title: 'Sexualidad: Generación X vs Millennials',
         core_tech: 'R',
-        description: ''
+        description: 'Los adolescentes tienen una sexualidad activa más temprana, por otro lado, presentan mayores tasas de prevención en su primera relación sexual, sin embargo los embarazos con padres adolescentes continúan aumentando.'
     },  {
         demo_link: 'https://elopezgon.github.io/2016/09/13/areas-verdes/',
         img_link: 'https://elopezgon.github.io/images-post/areas_ent.jpg',
