@@ -19,39 +19,39 @@
             code_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico',
             title: 'Depresión en México',
             core_tech: 'R',
-            description: 'La depresión mayor es un trastorno de alta prevalencia que puede generar discapacidad importante en quien la padece.'
+            description: 'La depresión mayor es un trastorno de alta prevalencia que puede generar discapacidad importante ...'
         },{
         demo_link: 'https://cadsalud.github.io/2016/06/06/Sexualidad/',
         img_link: 'https://cadsalud.github.io/images-post/infografia_sexualidad_img.png',
         code_link: 'https://cadsalud.github.io/2016/06/06/Sexualidad/',
         title: 'Sexualidad: Generación X vs Millennials',
         core_tech: 'R',
-        description: 'Los adolescentes tienen una sexualidad activa más temprana, por otro lado, presentan mayores tasas de prevención en su primera relación sexual, sin embargo los embarazos con padres adolescentes continúan aumentando.'
+        description: 'Los adolescentes tienen una sexualidad activa más temprana, por otro lado, presentan mayores tasas ...'
     },  {
-        demo_link: 'https://elopezgon.github.io/2016/09/13/areas-verdes/',
-        img_link: 'https://elopezgon.github.io/images-post/areas_ent.jpg',
-        code_link: 'https://elopezgon.github.io/2016/09/13/areas-verdes/',
+        demo_link: 'https://cadsalud.github.io/2016/09/13/areas-verdes/',
+        img_link: 'https://cadsalud.github.io/images-post/areas_ent.jpg',
+        code_link: 'https://cadsalud.github.io/2016/09/13/areas-verdes/',
         title: 'Áreas verdes urbanas',
         core_tech: 'R',
         description: ''
     }, {
-        demo_link: 'https://elopezgon.github.io/2016/09/13/Familia-Mexicana/',
-        img_link: 'https://elopezgon.github.io/images-post/familia_ent.jpg',
-        code_link: 'https://elopezgon.github.io/2016/09/13/Familia-Mexicana/',
+        demo_link: 'https://cadsalud.github.io/2016/09/13/Familia-Mexicana/',
+        img_link: 'https://cadsalud.github.io/images-post/familia_ent.jpg',
+        code_link: 'https://cadsalud.github.io/2016/09/13/Familia-Mexicana/',
         title: 'Retrato de la Familia Mexicana',
         core_tech: 'R',
         description: ''
     }, {
-        demo_link: 'https://elopezgon.github.io/2016/10/21/marihuana/',
-        img_link: 'https://elopezgon.github.io/images-post/marihuana_ent.jpg',
-        code_link: 'https://elopezgon.github.io/2016/10/21/marihuana/',
+        demo_link: 'https://cadsalud.github.io/2016/10/21/marihuana/',
+        img_link: 'https://cadsalud.github.io/images-post/marihuana_ent.jpg',
+        code_link: 'https://cadsalud.github.io/2016/10/21/marihuana/',
         title: 'Marihuana: Afectación, intolerancia y violencia',
         core_tech: 'R',
         description: ''
     }, {
-        demo_link: 'https://elopezgon.github.io/2016/10/21/marihuana_mexico/',
-        img_link: 'https://elopezgon.github.io/images-post/marihuana_mexico_ent.png',
-        code_link: 'https://elopezgon.github.io/2016/10/21/marihuana_mexico/',
+        demo_link: 'https://cadsalud.github.io/2016/10/21/marihuana_mexico/',
+        img_link: 'https://cadsalud.github.io/images-post/marihuana_mexico_ent.png',
+        code_link: 'https://cadsalud.github.io/2016/10/21/marihuana_mexico/',
         title: 'Todo lo que siempre quiso saber sobre la marihuana en México y nunca se atrevió a preguntar',
         core_tech: 'R',
         description: ''
