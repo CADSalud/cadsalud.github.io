@@ -21,9 +21,9 @@
             core_tech: 'R',
             description: 'La depresión mayor es un trastorno de alta prevalencia que puede generar discapacidad importante en quien la padece.'
         },{
-        demo_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico/',
+        demo_link: 'https://cadsalud.github.io/2016/08/06/Sexualidad/',
         img_link: 'https://cadsalud.github.io/images-post/infografia_sexualidad_img.png',
-        code_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico/',
+        code_link: 'https://cadsalud.github.io/2016/08/06/Sexualidad/',
         title: 'Sexualidad: Generación X vs Millennials',
         core_tech: 'R',
         description: 'Los adolescentes tienen una sexualidad activa más temprana, por otro lado, presentan mayores tasas de prevención en su primera relación sexual, sin embargo los embarazos con padres adolescentes continúan aumentando.'
