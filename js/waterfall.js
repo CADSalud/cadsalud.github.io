@@ -14,9 +14,9 @@
      */
     var demoContent = [
         {
-            demo_link: 'https://elopezgon.github.io/2016/06/06/Depresion-en-Mexico/',
-            img_link: 'https://elopezgon.github.io/images-post/depresion_ent.jpg',
-            code_link: 'https://elopezgon.github.io/2016/06/06/Depresion-en-Mexico',
+            demo_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico/',
+            img_link: 'https://cadsalud.github.io/images-post/depresion_ent.jpg',
+            code_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico',
             title: 'Depresión en México',
             core_tech: 'R',
             description: 'La depresión mayor es un trastorno de alta prevalencia que puede generar discapacidad importante en quien la padece.'
