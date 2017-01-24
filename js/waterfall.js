@@ -29,7 +29,7 @@
         description: 'Los adolescentes tienen una sexualidad activa más temprana, por otro lado, presentan mayores tasas ...'
     },  {
         demo_link: 'https://cadsalud.github.io/2016/09/13/areas-verdes/',
-        img_link: 'https://cadsalud.github.io/images-post/areas_ent.jpg',
+        img_link: 'https://cadsalud.github.io/images-post/avu.png',
         code_link: 'https://cadsalud.github.io/2016/09/13/areas-verdes/',
         title: 'Áreas verdes urbanas',
         core_tech: 'R',
