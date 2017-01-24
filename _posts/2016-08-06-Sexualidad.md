@@ -8,12 +8,11 @@ author: CADsalud
 ---
 * content
 {:toc}
+Los adolescentes tienen una sexualidad activa más temprana, por otro lado, presentan mayores tasas de prevención en su primera relación sexual, sin embargo los embarazos con padres adolescentes continúan aumentando. 
 
+![](/images-post/infografia_sexualidad_img.png)
 
-
-
-
-Los adolescentes tienen una sexualidad activa más temprana, por otro lado, presentan mayores tasas de prevención en su primera relación sexual, sin embargo los embarazos con padres adolescentes continúan aumentando. De acuerdo con el estudio de la Universidad de Washington del 2008 (1), programas efectivos de educación sexual a temprana edad ayudan a prevenir embarazos no deseados. Por lo tanto, urge incentivar políticas públicas de mayor impacto para la prevención de embarazos adolescentes.
+De acuerdo con el estudio de la Universidad de Washington del 2008 (1), programas efectivos de educación sexual a temprana edad ayudan a prevenir embarazos no deseados. Por lo tanto, urge incentivar políticas públicas de mayor impacto para la prevención de embarazos adolescentes.
 
  
 
