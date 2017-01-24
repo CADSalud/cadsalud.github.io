@@ -11,6 +11,9 @@ author: CADSALUD
 {:toc}
 La siguiente infografía muestra algunos datos lamentables que muestran la poca planeación urbana para integrar parques y jardines en las ciudades.
 
+<img src="/images-post/avu.png" width="380">
+
+
 
 
 A pesar de que existen esfuerzos para motivar a los ciudadanos a hacer más ejercicio, como son la campaña "Muévete y métete en cintura" de la Secretaría de Salud del Gobierno de la Ciudad de México, es complicado incentivar la cultura del deporte y recreación si no existen áreas verdes urbanas que lo permitan.
