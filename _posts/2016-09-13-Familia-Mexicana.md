@@ -9,9 +9,6 @@ author: CADSALUD
 ---
 * content
 {:toc}
-
-
-
 En respuesta a la iniciativa para evitar restricciones legales que impiden que personas del mismo sexo contraigan matrimonio, el Frente Nacional por la Familia convocó el pasado 10 de septiembre marchas simultáneas a nivel nacional y se preparan para una gran marcha nacional el próximo 24 de septiembre. 
 
 <img src="/images-post/retrato_familias.png" width="380">
