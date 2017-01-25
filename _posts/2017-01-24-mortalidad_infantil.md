@@ -42,5 +42,5 @@ La hipótesis de posibles subregistros en nacimientos o defunciones para todas l
 
 <img src="/images-post/subregistro.png" width="580">
 
-Desde el punto de vista del diseño de políticas públicas, es importante el tratamiento de las bases de datos necesario para representar los fenómenos que requieren ser estudiados como el derecho a la identidad para no permanecer anónimos en las demandas de la sociedad al Estado y a la misma sociedad o bien para monitorear los indicadores de desarrollo humano de las comunidades.
+Desde el punto de vista del diseño de políticas públicas, es importante el tratamiento de las bases de datos necesario para representar los fenómenos que requieren ser estudiados, como el derecho a la identidad para no permanecer anónimos en las demandas de la sociedad al Estado y a la misma sociedad ,o bien para monitorear los indicadores de desarrollo humano de las comunidades.
 
