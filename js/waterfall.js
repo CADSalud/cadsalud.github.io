@@ -43,7 +43,7 @@
         description: 'En respuesta a la iniciativa para evitar restricciones legales que impiden que personas del mismo sexo ...'
     }, {
         demo_link: 'https://cadsalud.github.io/2016/10/21/marihuana/',
-        img_link: 'https://cadsalud.github.io/afectacio_intolerancia_violencia.png',
+        img_link: 'https://cadsalud.github.io/images-post/afectacio_intolerancia_violencia.png',
         code_link: 'https://cadsalud.github.io/2016/10/21/marihuana/',
         title: 'Marihuana: Afectación, intolerancia y violencia',
         core_tech: 'R',
