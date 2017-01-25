@@ -15,7 +15,7 @@
     var demoContent = [
 		{
 		demo_link: 'https://cadsalud.github.io/2017/01/24/mortalidad_infantil/',
-		img_link: 'https://cadsalud.github.io/images-post/mort_inf_mundo.png',
+		img_link: 'https://cadsalud.github.io/images-post/who_indicators.png',
 		code_link: 'https://cadsalud.github.io/2017/01/24/mortalidad_infantil/',
 		title: 'Mortalidad infantil y el subregistro administrativo',
 		core_tech: 'R',
