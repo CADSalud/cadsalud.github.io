@@ -14,6 +14,13 @@
      */
     var demoContent = [
 		{
+		demo_link: 'https://cadsalud.github.io/2017/01/24/mortalidad_infantil/',
+		img_link: 'https://cadsalud.github.io/images-post/mort_inf_mundo.png',
+		code_link: 'https://cadsalud.github.io/2017/01/24/mortalidad_infantil/',
+		title: 'Todo lo que siempre quiso saber sobre la marihuana en México y nunca se atrevió a preguntar',
+		core_tech: 'R',
+		description: 'La legalización en el consumo de la marihuana no es un tema tan simple. Estar a favor o en contra involucra ...'
+		},{
 		demo_link: 'https://cadsalud.github.io/2016/10/21/marihuana_mexico/',
 		img_link: 'https://cadsalud.github.io/images-post/todoloque.png',
 		code_link: 'https://cadsalud.github.io/2016/10/21/marihuana_mexico/',
