@@ -10,7 +10,7 @@ author: David Lampón
 {:toc}
 Con el propósito de contar con indicadores estandarizados para ubicar el estado de salud de una población, la [Organización Mundial de la Salud](http://www.who.int/en/) publicó en 2015 su *Lista de Referencia Global de 100 Indicadores Básicos*.
 
-<img src="/images-post/mort_inf_mundo.png" width="380">
+<img src="/images-post/who_indicators.png" width="380">
 
 
 
