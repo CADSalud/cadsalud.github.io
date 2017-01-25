@@ -50,11 +50,11 @@
         description: 'La perversa necesidad de compararse resulta útil para contextualizar los efectos de una droga en la salud ...'
     }, {
         demo_link: 'https://cadsalud.github.io/2016/10/21/marihuana_mexico/',
-        img_link: 'https://cadsalud.github.io/images-post/marihuana_mexico_ent.png',
+        img_link: 'https://cadsalud.github.io/images-post/todoloque.png',
         code_link: 'https://cadsalud.github.io/2016/10/21/marihuana_mexico/',
         title: 'Todo lo que siempre quiso saber sobre la marihuana en México y nunca se atrevió a preguntar',
         core_tech: 'R',
-        description: ''
+        description: 'La legalización en el consumo de la marihuana no es un tema tan simple. Estar a favor o en contra involucra ...'
     }];
 
     contentInit(demoContent) 
