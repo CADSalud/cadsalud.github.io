@@ -13,13 +13,34 @@
      * 
      */
     var demoContent = [
-        {
-            demo_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico/',
-            img_link: 'https://cadsalud.github.io/images-post/infografia_depresion_img.png',
-            code_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico',
-            title: 'Depresión en México',
-            core_tech: 'R',
-            description: 'La depresión mayor es un trastorno de alta prevalencia que puede generar discapacidad importante ...'
+		{
+		demo_link: 'https://cadsalud.github.io/2016/10/21/marihuana_mexico/',
+		img_link: 'https://cadsalud.github.io/images-post/todoloque.png',
+		code_link: 'https://cadsalud.github.io/2016/10/21/marihuana_mexico/',
+		title: 'Todo lo que siempre quiso saber sobre la marihuana en México y nunca se atrevió a preguntar',
+		core_tech: 'R',
+		description: 'La legalización en el consumo de la marihuana no es un tema tan simple. Estar a favor o en contra involucra ...'
+		},{
+		demo_link: 'https://cadsalud.github.io/2016/10/21/marihuana/',
+		img_link: 'https://cadsalud.github.io/images-post/afectacio_intolerancia_violencia.png',
+		code_link: 'https://cadsalud.github.io/2016/10/21/marihuana/',
+		title: 'Marihuana: Afectación, intolerancia y violencia',
+		core_tech: 'R',
+		description: 'La perversa necesidad de compararse resulta útil para contextualizar los efectos de una droga en la salud ...'
+		},{
+        demo_link: 'https://cadsalud.github.io/2016/09/13/Familia-Mexicana/',
+        img_link: 'https://cadsalud.github.io/images-post/retrato_familias.png',
+        code_link: 'https://cadsalud.github.io/2016/09/13/Familia-Mexicana/',
+        title: 'Retrato de la Familia Mexicana',
+        core_tech: 'R',
+        description: 'En respuesta a la iniciativa para evitar restricciones legales que impiden que personas del mismo sexo ...'
+	    },{
+        demo_link: 'https://cadsalud.github.io/2016/09/13/areas-verdes/',
+        img_link: 'https://cadsalud.github.io/images-post/avu.png',
+        code_link: 'https://cadsalud.github.io/2016/09/13/areas-verdes/',
+        title: 'Áreas verdes urbanas',
+        core_tech: 'R',
+        description: 'La siguiente infografía muestra algunos datos lamentables que muestran la poca planeación urbana ...'
         },{
         demo_link: 'https://cadsalud.github.io/2016/06/06/Sexualidad/',
         img_link: 'https://cadsalud.github.io/images-post/infografia_sexualidad_img.png',
@@ -27,35 +48,14 @@
         title: 'Sexualidad: Generación X vs Millennials',
         core_tech: 'R',
         description: 'Los adolescentes tienen una sexualidad activa más temprana, por otro lado, presentan mayores tasas ...'
-    },  {
-        demo_link: 'https://cadsalud.github.io/2016/09/13/areas-verdes/',
-        img_link: 'https://cadsalud.github.io/images-post/avu.png',
-        code_link: 'https://cadsalud.github.io/2016/09/13/areas-verdes/',
-        title: 'Áreas verdes urbanas',
+        },{
+        demo_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico/',
+        img_link: 'https://cadsalud.github.io/images-post/infografia_depresion_img.png',
+        code_link: 'https://cadsalud.github.io/2016/06/06/Depresion-en-Mexico',
+        title: 'Depresión en México',
         core_tech: 'R',
-        description: 'La siguiente infografía muestra algunos datos lamentables que muestran la poca planeación urbana ...'
-    }, {
-        demo_link: 'https://cadsalud.github.io/2016/09/13/Familia-Mexicana/',
-        img_link: 'https://cadsalud.github.io/images-post/retrato_familias.png',
-        code_link: 'https://cadsalud.github.io/2016/09/13/Familia-Mexicana/',
-        title: 'Retrato de la Familia Mexicana',
-        core_tech: 'R',
-        description: 'En respuesta a la iniciativa para evitar restricciones legales que impiden que personas del mismo sexo ...'
-    }, {
-        demo_link: 'https://cadsalud.github.io/2016/10/21/marihuana/',
-        img_link: 'https://cadsalud.github.io/images-post/afectacio_intolerancia_violencia.png',
-        code_link: 'https://cadsalud.github.io/2016/10/21/marihuana/',
-        title: 'Marihuana: Afectación, intolerancia y violencia',
-        core_tech: 'R',
-        description: 'La perversa necesidad de compararse resulta útil para contextualizar los efectos de una droga en la salud ...'
-    }, {
-        demo_link: 'https://cadsalud.github.io/2016/10/21/marihuana_mexico/',
-        img_link: 'https://cadsalud.github.io/images-post/todoloque.png',
-        code_link: 'https://cadsalud.github.io/2016/10/21/marihuana_mexico/',
-        title: 'Todo lo que siempre quiso saber sobre la marihuana en México y nunca se atrevió a preguntar',
-        core_tech: 'R',
-        description: 'La legalización en el consumo de la marihuana no es un tema tan simple. Estar a favor o en contra involucra ...'
-    }];
+        description: 'La depresión mayor es un trastorno de alta prevalencia que puede generar discapacidad importante ...'
+        }];
 
     contentInit(demoContent) 
     waitImgsLoad() 
