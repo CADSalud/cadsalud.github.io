@@ -36,11 +36,11 @@
         description: 'La siguiente infografía muestra algunos datos lamentables que muestran la poca planeación urbana ...'
     }, {
         demo_link: 'https://cadsalud.github.io/2016/09/13/Familia-Mexicana/',
-        img_link: 'https://cadsalud.github.io/images-post/familia_ent.jpg',
+        img_link: 'https://cadsalud.github.io/images-post/retrato_familias.png',
         code_link: 'https://cadsalud.github.io/2016/09/13/Familia-Mexicana/',
         title: 'Retrato de la Familia Mexicana',
         core_tech: 'R',
-        description: ''
+        description: 'En respuesta a la iniciativa para evitar restricciones legales que impiden que personas del mismo sexo ...'
     }, {
         demo_link: 'https://cadsalud.github.io/2016/10/21/marihuana/',
         img_link: 'https://cadsalud.github.io/images-post/marihuana_ent.jpg',
