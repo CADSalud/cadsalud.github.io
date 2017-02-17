@@ -14,7 +14,7 @@ Con el propósito de contar con indicadores estandarizados para ubicar el estado
 
 
 
-
+----
 
 Dichos indicadores funcionan para monitorear el estado de salud de una población, así como los factores de riesgo a los que están expuetos, cobertura de servicios y sistemas de salud. Uno de estos indicadores clave es la **Tasa de Mortalidad Infantil (Neonatal)** que se entiende como el número de defunciones de menores de un año por cada mil nacimientos vivos durante el primer año de su vida.
 
