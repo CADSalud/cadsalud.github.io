@@ -16,7 +16,7 @@ En respuesta a la iniciativa para evitar restricciones legales que impiden que p
 
 
 
-
+----
 
 En Animal Político reportaron que los representantes del Frente Nacional por la Familia mencionaron una afluencia de más de 1 millón de personas en más de 100 ciudades el pasado sábado, argumentando ser ciudadanos a favor de la familia, describiéndose a sí mismos de la siguiente forma:
 
