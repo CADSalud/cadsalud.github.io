@@ -15,7 +15,7 @@ La perversa necesidad de compararse resulta útil para contextualizar los efecto
 
 
 
-
+----
 
 En el debate de legalizar o no el consumo de la marihuana, resulta relevante conocer la experiencia de otros países para relacionar qué tan afectada se encuentra la salud de sus habitantes por el consumo, qué tan intolerante se percibe debido a las políticas prohibitivas en cuestión de sustancias que alteran la salud de los habitantes y cuál es el clima de violencia que se vive en cada país.
 
