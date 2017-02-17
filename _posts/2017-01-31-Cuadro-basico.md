@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ¿Qué medicamentos se están aceptando en el cuadro básico y a qué precio?
+title:  ¿Que medicamentos se están aceptando en el cuadro básico y a qué precio?
 date:   2017-01-31
 categories: blog
 tags: grupos terapéuticos medicamentos cuadro básico CSG
@@ -8,16 +8,16 @@ author: Edgar, Roberto
 ---
 * content
 {:toc}
-Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cual es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público.          
 
-<img src="/images-post/dinero.jpg" width="380">           
-
-
+Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cual es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público.
+<img src="/images-post/dinero.jpg" width="380"> 
 
 
 
+
+--- 
 Los lineamientos bajo los cuales se pueden incluir, modificar o excluir nuevos medicamentos en el Cuadro básico se encuentran publicados en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5197525&fecha=22/06/2011). Estas solicitudes de inclusión, modificación y exclusión deben de estar acompañados de **ensayos clínicos controlados**, **estudios de fármaeconomía** y **evaluación de tecnologías**  para ser consideradas por el CSG.
-
+		
 El presente análisis busca describir la forma en la que el CSG ha ido actualizando el cuadro básico.
 
 # Metodología <a id = "metodologia"></a>
@@ -95,7 +95,7 @@ Posteriormente, se realizó un comparativo excluyendo los valores atípicos que 
 -   *Los grupos terapéuticos con medicamentos menos costosos coinciden con lo más aceptados, en este caso: Analgesia y Vacunas.*
 - *Oncología es un grupo terapéutico donde no se aceptan casi solicitudes, sin embargo, los precios de los medicamentos que si fueron aceptados son muy altos en comparación de los demás grupos.*
 
-## Desagregación por año <a id="desagregacion"></a>
+## Precios desagregados por año <a id="desagregacion"></a>
 
 
 #### Diagrama de caja y brazos <a id="caja_brazos"></a>
@@ -126,44 +126,44 @@ De acuerdo a la Federación Mexicana de Enfermedades Raras (FEMEXER), una enferm
 A continuación se muestra un comparativo, excluyendo aquellos medicamentos prescritos para enfermedades raras cuyo precio este por arriba del 75% de los medicamentos dentro del mismo grupo terapéutico. Es decir, aquellos outliers que corresponden a tratamientos para enfermedades raras y analizar la influencia que tienen.
 
 |Nombre|Categoria|Precio($)|
-|------|---------|------|
-|Darbepoetina alfa (onco)|Hematología|5570.642|
-|Darbepoetina alfa (onco)|Hematología|9284.404|
-|Taliglucerasa| Endocrinología y Metabolismo|7189.310|
-|Lanreotida| Endocrinología y Metabolismo|13675.630|
-|Lanreotida| Endocrinología y Metabolismo|16630.399|
-|Nitisinona| Endocrinología y Metabolismo|53418.321|
-|Nitisinona| Endocrinología y Metabolismo|133546.267|
-|Nitisinona| Endocrinología y Metabolismo|267092.955|
-|Somatropina| Endocrinología y Metabolismo|1038.526|
-|Somatropina |Endocrinología y Metabolismo|1969.432|
-|Fingolimod|Neurología|28312.473|
-|Icatibant| Endocrinología y Metabolismo|31209.583|
-|Lanreotido| Endocrinología y Metabolismo|13294.206|
-|Lanreotido| Endocrinología y Metabolismo|16166.564|
-|Factor IX|Hematología|9207.731|
-|Factor IX|Hematología|18415.462|
-|Moroctocog|Hematología|9225.971|
-|Moroctocog|Hematología |18451.943|
-|Interferon beta|Neurología|3303.835|
-|Eptacog alfa|Hematología|12094.395|
-|Eptacog alfa|Hematología|24188.790|
-|Eptacog alfa|Hematología|60471.974|
-|Glatiramer|Neurología|19531.624|
-|Somatropina| Endocrinología y Metabolismo|2253.232|
-|Taliglucerasa Alfa| Endocrinología y Metabolismo|5630.620|
-|Dimetilfumarato|Neurología|18720.000|
-|Alprostadil 500 µg|Cardiología |26000.000|
-|Inhibidor de la esterasa C1 humano| Endocrinología y Metabolismo|8618.500|
-|Somatropina| Endocrinología y Metabolismo|855.540|
-|Turoctocog alfa|Hematología  |2100.000|
-|Turoctocog alfa|Hematología|4200.000|
-|Turoctocog alfa|Hematología|8400.000|
-|Turoctocog alfa|Hematología|12600.000|
-|Turoctocog alfa|Hematología |16800.000|
-|Turoctocog alfa|Hematología|25200.000|
-|Fibrinógeno Humano|Hematología |32000.000|
-|Elosulfasa Alfa| Endocrinología y Metabolismo|14561.000|
+|------|---------|------:|
+|Darbepoetina alfa (onco)|Hematología|  5,570.6|
+|Darbepoetina alfa (onco)|Hematología|  9,284.4|
+|Taliglucerasa| Endocrinología y Metabolismo|  7,189.3|
+|Lanreotida| Endocrinología y Metabolismo| 13,675.6|
+|Lanreotida| Endocrinología y Metabolismo| 16,630.3|
+|Nitisinona| Endocrinología y Metabolismo| 53,418.3|
+|Nitisinona| Endocrinología y Metabolismo|133,546.2|
+|Nitisinona| Endocrinología y Metabolismo|267092.9|
+|Somatropina| Endocrinología y Metabolismo|  1,038.5|
+|Somatropina |Endocrinología y Metabolismo|  1,969.4|
+|Fingolimod|Neurología| 28,312.4|
+|Icatibant| Endocrinología y Metabolismo|31,209.5|
+|Lanreotido| Endocrinología y Metabolismo|13,294.2|
+|Lanreotido| Endocrinología y Metabolismo|16,166.5|
+|Factor IX|Hematología|9,207.7|
+|Factor IX|Hematología|18,415.4|
+|Moroctocog|Hematología|9,225.9|
+|Moroctocog|Hematología |18,451.9|
+|Interferon beta|Neurología|3,303.8|
+|Eptacog alfa|Hematología|12,094.3|
+|Eptacog alfa|Hematología|24,188.7|
+|Eptacog alfa|Hematología|60,471.9|
+|Glatiramer|Neurología|19,531.6|
+|Somatropina| Endocrinología y Metabolismo|2,253.2|
+|Taliglucerasa Alfa| Endocrinología y Metabolismo|5,630.6|
+|Dimetilfumarato|Neurología|18,720.0|
+|Alprostadil 500 µg|Cardiología |26,000.0|
+|Inhibidor de la esterasa C1 humano| Endocrinología y Metabolismo|8,618.5|
+|Somatropina| Endocrinología y Metabolismo| 855.5|
+|Turoctocog alfa|Hematología  |2,100.0|
+|Turoctocog alfa|Hematología|4,200.0|
+|Turoctocog alfa|Hematología|8,400.0|
+|Turoctocog alfa|Hematología|12,600.0|
+|Turoctocog alfa|Hematología |16,800.0|
+|Turoctocog alfa|Hematología|25,200.0|
+|Fibrinógeno Humano|Hematología |32,000.0|
+|Elosulfasa Alfa| Endocrinología y Metabolismo|14,561.0|
             
 ### Histrograma de solicitudes de medicamentos aceptados
 			
@@ -171,7 +171,7 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
 
 **Observación**: En la grafica anterior podemos observar que Hematología y Endocrinología son los grupos terapéuticos donde más se aceptan medicamentos con precios muy altos para el tratamiento de enfermedades raras .
 		
-## Desagregado por años
+## Precios desagregados por año	
 
 ### Diagrama de caja y brazos de precios
 
@@ -180,12 +180,12 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
 **Observación**: Podemos notar en los diagramas anteriores la diferencia en los precios de los medicamentos prescritos para enfermedades raras y los demás medicamentos dentro de un grupo terapéutico. Esto se puede ver en el cambio de escala de los diagramas asi como de las tendencias que hay entre años, por ejemplo, Hematología mostraba un comportamiento ascendente respecto al rango de precios, sin embargo, esto era principalmente por los solicitudes aceptadas de medicamentos para enfermedades raras.
 
 
-# Conclusiones<a id = "conclusiones"></a>
+# Conclusiones
  
 Como podemos observar en las graficas anteriores, el CSG no recibe de manera uniforme solicitudes para los diversos grupos terapéuticos.
 
- La industria farmaceutica esta más enfocada en medicamentos oncológicos; una posible razón sería por sus altos precios  y su inelasticidad respecto a este. Es por ello que el CSG tiene la mayor tasa de rechazo de medicamentos oncológicos posiblemente debido a su alto precio, o bien al riesgo inherente en estos medicamentos. 
+ La industria farmacéutica está más enfocada en medicamentos oncológicos; una posible razón sería por sus altos precios  y su inelasticidad respecto a este. Es por ello que el CSG tiene la mayor tasa de rechazo de medicamentos oncológicos posiblemente debido a su alto precio, o bien al riesgo inherente en estos medicamentos. 
  
-También se puede concluir que el CSG acepta tratamientos para enfermedades raras aún cuando el tratamiento sea muy costoso, esto posiblemente a que no impacta en gran medida en su presupuesto al no ser requeridos por la mayoría de la población.  La aceptación de estos tratamientos influía en gran medida en el análisis inicial de cada grupo terapéutico pues hacia variar los precios de manera importante.  
+También se puede concluir que el CSG acepta tratamientos para enfermedades raras aún cuando el tratamiento sea muy costoso, esto posiblemente a que no impacta en gran medida en su presupuesto al no ser requeridos por la mayoría de la población.  La aceptación de estos tratamientos influye en gran medida en el análisis inicial de cada grupo terapéutico pues hace variar los precios de manera importante.  
  
-Es tanta la importancia de este tipo de tratamientos que el pasado 19 de enero se acordo la creación de la *Comisión para el Análisis, Evaluación, Registro y Seguimiento de las Enfermedades Raras*, este acuerdo se encuentra ya publicado en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5469383&fecha=19/01/2017). Esto facilitará y mejorará el estudio de este tipo de enfermedades de gran relevancia en el futuro.
+Es tanta la importancia de este tipo de tratamientos que el pasado 19 de enero se acordó la creación de la *Comisión para el Análisis, Evaluación, Registro y Seguimiento de las Enfermedades Raras*, este acuerdo se encuentra ya publicado en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5469383&fecha=19/01/2017). Esto facilitará y mejorará el estudio de este tipo de enfermedades de gran relevancia en el futuro.
