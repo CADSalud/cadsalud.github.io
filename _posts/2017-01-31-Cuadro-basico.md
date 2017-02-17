@@ -8,10 +8,9 @@ author: Edgar, Roberto
 ---
 * content
 {:toc}
-Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cual es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público.
-<p align="center"> 
-<img src="/images-post/dinero.jpg" width="450"> 
-</p>
+Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cual es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público.          
+
+<p align="center"> <img src="/images-post/dinero.jpg" width="450"> </p>           
 
 
 
@@ -186,7 +185,7 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
  
 Como podemos observar en las graficas anteriores, el CSG no recibe de manera uniforme solicitudes para los diversos grupos terapéuticos.
 
- La industria farmaceutica esta más enfocada en medicamentos oncologicos; una posible razón sería por sus altos precios  y su inelasticidad respecto a este. Es por ello que el CSG tiene la mayor tasa de rechazo de medicamentos oncológicos posiblemente debido a su alto precio, o bien al riesgo inherente en estos medicamentos. 
+ La industria farmaceutica esta más enfocada en medicamentos oncológicos; una posible razón sería por sus altos precios  y su inelasticidad respecto a este. Es por ello que el CSG tiene la mayor tasa de rechazo de medicamentos oncológicos posiblemente debido a su alto precio, o bien al riesgo inherente en estos medicamentos. 
  
 También se puede concluir que el CSG acepta tratamientos para enfermedades raras aún cuando el tratamiento sea muy costoso, esto posiblemente a que no impacta en gran medida en su presupuesto al no ser requeridos por la mayoría de la población.  La aceptación de estos tratamientos influía en gran medida en el análisis inicial de cada grupo terapéutico pues hacia variar los precios de manera importante.  
  
