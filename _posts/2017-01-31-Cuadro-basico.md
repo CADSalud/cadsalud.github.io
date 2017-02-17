@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ¿Qué medicamentos se estan aceptando en el cuadro básico y a qué precio?
+title:  ¿Qué medicamentos se están aceptando en el cuadro básico y a qué precio?
 date:   2017-01-31
 categories: blog
 tags: grupos terapéuticos medicamentos cuadro básico CSG
@@ -16,25 +16,9 @@ Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar,
 
 
 
-
-
-
 Los lineamientos bajo los cuales se pueden incluir, modificar o excluir nuevos medicamentos en el Cuadro básico se encuentran publicados en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5197525&fecha=22/06/2011). Estas solicitudes de inclusión, modificación y exclusión deben de estar acompañados de **ensayos clínicos controlados**, **estudios de fármaeconomía** y **evaluación de tecnologías**  para ser consideradas por el CSG.
 
 El presente análisis busca describir la forma en la que el CSG ha ido actualizando el cuadro básico.
-# Índice
-* [Metodología](#metodologia)
-* [Resultados](#resultados) 
-  * [Desagregación por grupo terapéutico](#grupo)
-       * [¿Qué grupo terapéutico recibe más solicitudes de medicamentos?](#numero)
-       * [¿Qué grupo terapéutico acepta más  medicamentos?](#proporcion)
-       * [¿Qué grupo terapéutico ha aceptado medicamentos más caros?](#promedio)
-  * [Desagregación por año](#desagregacion)
-       * [Diagrama de caja y brazos](#caja_brazos)
-       * [Desagragación por tipo de actualización: Oncología](#caja_brazos_onco)
-* [Enfermedades raras](#enfermedades)
-* [Conclusiones](#conclusiones)
-
 
 # Metodología <a id = "metodologia"></a>
 -------------------------------------
