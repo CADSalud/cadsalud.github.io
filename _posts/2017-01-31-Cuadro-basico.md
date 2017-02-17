@@ -3,7 +3,7 @@ layout: post
 title:  ¿Qué medicamentos se estan aceptando en el cuadro básico y a qué precio?
 date:   2017-01-31
 categories: blog
-tags: grupos terapéuticos medicamentos
+tags: grupos terapéuticos medicamentos cuadro básico CSG
 author: Edgar, Roberto
 ---
 * content
@@ -12,6 +12,7 @@ Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar,
 <p align="center"> 
 <img src="/images-post/dinero.jpg" width="450"> 
 </p>
+
 
 
 
