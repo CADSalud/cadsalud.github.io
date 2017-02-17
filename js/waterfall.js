@@ -28,6 +28,13 @@
 		core_tech: 'R',
 		description: 'La legalización en el consumo de la marihuana no es un tema tan simple. Estar a favor o en contra involucra ...'
 		},{
+		demo_link: 'https://cadsalud.github.io/_posts/2017-01-31-Cuadro-basico/',
+		img_link: 'https://cadsalud.github.io/images-post/dinero.jpg',
+		code_link: 'https://cadsalud.github.io/_posts/2017-01-31-Cuadro-basico/',
+		title: '¿Qué medicamentos se estan aceptando en el cuadro básico y a qué precio?',
+		core_tech: 'R',
+		description: 'Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el Cuadro básico...'
+		},{
 		demo_link: 'https://cadsalud.github.io/2016/10/21/marihuana/',
 		img_link: 'https://cadsalud.github.io/images-post/afectacio_intolerancia_violencia.png',
 		code_link: 'https://cadsalud.github.io/2016/10/21/marihuana/',
