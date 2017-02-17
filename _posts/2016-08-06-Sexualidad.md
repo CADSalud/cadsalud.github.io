@@ -12,12 +12,7 @@ Los adolescentes tienen una sexualidad activa más temprana, por otro lado, pres
 
 <img src="/images-post/infografia_sexualidad_img.png" width="380">
 
-
-
-
-
-
-
+----
 
 De acuerdo con el estudio de la Universidad de Washington del 2008 (1), programas efectivos de educación sexual a temprana edad ayudan a prevenir embarazos no deseados. Por lo tanto, urge incentivar políticas públicas de mayor impacto para la prevención de embarazos adolescentes.
 
