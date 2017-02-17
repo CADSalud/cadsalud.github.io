@@ -20,6 +20,8 @@ Los lineamientos bajo los cuales se pueden incluir, modificar o excluir nuevos m
 
 El presente análisis busca describir la forma en la que el CSG ha ido actualizando el cuadro básico.
 
+
+
 # Metodología <a id = "metodologia"></a>
 -------------------------------------
 Los datos utilizados para este estudio se encuentran publicados en <http://www.csg.gob.mx/contenidos/CB2013/medicamentos/ev_proceso.html>. Debido a la amplia gama de medicamentos que solicitan inclusión o modificación al cuadro básico, se hizo el esfuerzo de  clasificarlos por grupo terapéutico para un mejor análisis. Los grupos terapéuticos que considera el CSG son:
@@ -53,7 +55,7 @@ Los precios fueron actualizados al día de hoy, considerando la inflación médi
  
 Como se observará en las gráficas posteriores, algunos grupos terapéuticos cuentan con menos de 10 solicitudes aprobadas  por lo que se excluyeron del análisis descriptivo de sus precios. 
 
-Para el caso de Desagregación por tipo de actualización, solo se realizo para el grupo terapéutico de Oncología pues es el único que cuenta con información suficiente.
+Para el caso de Desagregación por tipo de actualización, solo se realizó para el grupo terapéutico de Oncología pues es el único que cuenta con información suficiente.
 
 Posteriormente, se realizó un comparativo excluyendo los valores atípicos que se observaron en algunos grupos terapéuticos , los cuales correspondian al tratamiento de enfermedades raras.
 
