@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ¿Que medicamentos se están aceptando en el cuadro básico y a qué precio?
+title:  ¿Qué medicamentos se están aceptando en el cuadro básico y a qué precio?
 date:   2017-01-31
 categories: blog
 tags: grupos terapéuticos medicamentos cuadro básico CSG
@@ -50,11 +50,11 @@ Los datos utilizados para este estudio se encuentran publicados en <http://www.c
 	
 También se agregó un grupo de *No clasificado* donde se incluyó aquellos medicamentos que fueron **rechazados** y por lo tanto no fueron clasificados por el CSG. Este grupo no afecta el análisis pues solo se consideran los medicamentos que **si** fueron aceptados en el cuadro básico. Lo anterior se debe a que CSG publica solo los precios de los medicamentos que fueron aprobados.
 	
-Los precios fueron actualizados al día de hoy, considerando la inflación médica que hubo desde el año en el que se acepto la solicitud. La inflación médica fue estimada con el *INCP clasificado por objeto de gasto* por concepto de *Salud y cuidado personal*  publicado en <http://www.inegi.org.mx/est/contenidos/proyectos/inp/inpc.aspx> y con la metodología de Banxico que se encuentra en el siguiente [link](http://www.banxico.org.mx/politica-monetaria-e-inflacion/material-de-referencia/basico/preguntas-frecuentes-de-politica-monetaria-e-infla/preguntas-frecuentes002.html), en el apartado *¿Cómo puedo conocer la inflación entre dos fechas?*.
+Los precios fueron actualizados al día de hoy, considerando la inflación médica que hubo desde el año en el que se aceptó la solicitud. La inflación médica fue estimada con el *INPC clasificado por objeto de gasto* por concepto de *Salud y cuidado personal*  publicado en <http://www.inegi.org.mx/est/contenidos/proyectos/inp/inpc.aspx> y con la metodología de Banxico que se encuentra en el siguiente [link](http://www.banxico.org.mx/politica-monetaria-e-inflacion/material-de-referencia/basico/preguntas-frecuentes-de-politica-monetaria-e-infla/preguntas-frecuentes002.html), en el apartado *¿Cómo puedo conocer la inflación entre dos fechas?*.
  
 Como se observará en las gráficas posteriores, algunos grupos terapéuticos cuentan con menos de 10 solicitudes aprobadas  por lo que se excluyeron del análisis descriptivo de sus precios. 
 
-Para el caso de Desagregación por tipo de actualización, solo se realizó para el grupo terapéutico de Oncología pues es el único que cuenta con información suficiente.
+Para el caso de desagregación por tipo de actualización, solo se realizó para el grupo terapéutico de oncología pues es el único que cuenta con información suficiente.
 
 Posteriormente, se realizó un comparativo excluyendo los valores atípicos que se observaron en algunos grupos terapéuticos , los cuales correspondian al tratamiento de enfermedades raras.
 
@@ -92,7 +92,7 @@ Posteriormente, se realizó un comparativo excluyendo los valores atípicos que 
 
 **Observaciones:**
 
--   *Los grupos terapéuticos con medicamentos aceptados más costosos son: Oncología y Enfermedades. Parasitaras*
+-   *Los grupos terapéuticos con medicamentos aceptados más costosos son: Oncología y Enfermedades Parasitaras*
 -   *Los grupos terapéuticos con medicamentos menos costosos coinciden con lo más aceptados, en este caso: Analgesia y Vacunas.*
 - *Oncología es un grupo terapéutico donde no se aceptan casi solicitudes, sin embargo, los precios de los medicamentos que si fueron aceptados son muy altos en comparación de los demás grupos.*
 
@@ -135,7 +135,7 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
 |Lanreotida| Endocrinología y Metabolismo| 16,630.3|
 |Nitisinona| Endocrinología y Metabolismo| 53,418.3|
 |Nitisinona| Endocrinología y Metabolismo|133,546.2|
-|Nitisinona| Endocrinología y Metabolismo|267092.9|
+|Nitisinona| Endocrinología y Metabolismo|267,092.9|
 |Somatropina| Endocrinología y Metabolismo|  1,038.5|
 |Somatropina |Endocrinología y Metabolismo|  1,969.4|
 |Fingolimod|Neurología| 28,312.4|
@@ -185,7 +185,7 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
  
 Como podemos observar en las graficas anteriores, el CSG no recibe de manera uniforme solicitudes para los diversos grupos terapéuticos.
 
- La industria farmacéutica está más enfocada en medicamentos oncológicos; una posible razón sería por sus altos precios  y su inelasticidad respecto a este. Es por ello que el CSG tiene la mayor tasa de rechazo de medicamentos oncológicos posiblemente debido a su alto precio, o bien al riesgo inherente en estos medicamentos. 
+ La industria farmacéutica está más enfocada en medicamentos oncológicos; una posible razón sería por sus altos precios  y su inelasticidad respecto a éste. Es por ello que el CSG tiene la mayor tasa de rechazo de medicamentos oncológicos posiblemente debido a su alto precio, o bien al riesgo inherente en estos medicamentos. 
  
 También se puede concluir que el CSG acepta tratamientos para enfermedades raras aún cuando el tratamiento sea muy costoso, esto posiblemente a que no impacta en gran medida en su presupuesto al no ser requeridos por la mayoría de la población.  La aceptación de estos tratamientos influye en gran medida en el análisis inicial de cada grupo terapéutico pues hace variar los precios de manera importante.  
  
