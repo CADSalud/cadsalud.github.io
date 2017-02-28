@@ -190,3 +190,7 @@ Como podemos observar en las graficas anteriores, el CSG no recibe de manera uni
 También se puede concluir que el CSG acepta tratamientos para enfermedades raras aún cuando el tratamiento sea muy costoso, esto posiblemente a que no impacta en gran medida en su presupuesto al no ser requeridos por la mayoría de la población.  La aceptación de estos tratamientos influye en gran medida en el análisis inicial de cada grupo terapéutico pues hace variar los precios de manera importante.  
  
 Es tanta la importancia de este tipo de tratamientos que el pasado 19 de enero se acordó la creación de la *Comisión para el Análisis, Evaluación, Registro y Seguimiento de las Enfermedades Raras*, este acuerdo se encuentra ya publicado en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5469383&fecha=19/01/2017). Esto facilitará y mejorará el estudio de este tipo de enfermedades de gran relevancia en el futuro.
+
+----
+
+Si estás interesado en análisis de datos en temas de salud o en las actividades que realiza CADSALUD, visita nuestra página de internet <https://www.cadsalud.org> o contáctanos en gabriela.otero@cadsalud.org
