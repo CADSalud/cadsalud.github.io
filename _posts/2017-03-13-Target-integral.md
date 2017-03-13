@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Target integral de médicos y farmacias: Las bondades de la ciencia de datos en la industria farmacéutica
+title:  "Target integral de médicos y farmacias: Las bondades de la ciencia de datos en la industria farmacéutica"
 date:   2017-03-13
 categories: blog
 tags: big data industria farmacéutica
@@ -11,7 +11,7 @@ author: Roberto Acevedo
 
 Actualmente, la mayoría de nosotros ha escuchado el término “Big Data” en más de una ocasión, y es que dicho término pertenece a una tendencia que seguirá durante los próximos años y que es de suma importancia para la planeación estratégica de las compañías. La tendencia es “Advanced Analytics”, que es la capacidad de explotar y analizar grandes bases de datos o repositorios de éstas para poder contar con mejor información para la toma de decisiones.
 
-<img src="/images-post/20170313target_integral/01_logo.png" width="380"> 
+<img src="/images-post/20170313target_integral/01_logo.png" width="380" align="midle"> 
 
 
 
