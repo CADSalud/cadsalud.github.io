@@ -30,16 +30,16 @@ Un ejemplo práctico de los posibles alcances de la ciencia de datos dentro de l
 
 Como se puede observar en el siguiente diagrama, el proceso de venta genera información valiosa en diferentes puntos entre la generación de demanda a través de la prescripción, así como la colocación del medicamento en la farmacia y su venta al paciente. Existe información de la visita médica o a la farmacia, prescripciones, venta al distribuidor, sell in, sell out y venta directa.
 
-<img src="/images-post/20170313target_integral/02_diagrama.png" width="380"> 
+<img src="/images-post/20170313target_integral/02_diagrama.png" width="380" align="midle"> 
 
 
 Tradicionalmente, el target de médicos y farmacias se hace de manera independiente utilizando información proveniente de las auditorías antes mencionadas, por ejemplo:
 
-<img src="/images-post/20170313target_integral/03_rel1.png" width="380"> 
+<img src="/images-post/20170313target_integral/03_rel1.png" width="380" align="midle"> 
 
 Observando el proceso de venta, el objetivo del targeting de médicos y farmacias persigue objetivos diferentes, por una parte, el detectar a los médicos más potenciales para generar prescripciones, y por el otro identificar las farmacias con mejores ventas y garantizar la existencia de los medicamentos del laboratorio en sus anaqueles.
 
-<img src="/images-post/20170313target_integral/03_rel2.png" width="380"> 
+<img src="/images-post/20170313target_integral/04_rel2.png" width="380" align="midle"> 
 
 A primera vista, la información que genera el paciente en el proceso de venta no existe. Pero bajo un enfoque de "Advance Analytics" se pueden construir las distancias del consultorio médico a la farmacia más cercana utilizando sistemas de georreferencia. Esta información parece más útil para las cadenas de farmacias al momento de elegir un lugar para ubicar un nuevo punto de venta.
 
