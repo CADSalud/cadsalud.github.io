@@ -14,6 +14,13 @@
      */
     var demoContent = [
 		{
+        demo_link: 'https://cadsalud.github.io/_posts/2017-03-13-Target-integral/',
+        img_link: 'https://cadsalud.github.io/images-post/20170313target_integral/01_logo.png',
+        code_link: 'https://cadsalud.github.io/_posts/2017-03-13-Target-integral/',
+        title: 'Target integral de médicos y farmacias: Las bondades de la ciencia de datos en la industria farmacéutica',
+        core_tech: ' ',
+        description: 'Actualmente, la mayoría de nosotros ha escuchado el término “Big Data” en más de una ocasión, y es que dicho término pertenece a una...'
+        },{
         demo_link: 'https://cadsalud.github.io/_posts/2017-01-31-Cuadro-basico/',
         img_link: 'https://cadsalud.github.io/images-post/dinero.jpg',
         code_link: 'https://cadsalud.github.io/_posts/2017-01-31-Cuadro-basico/',
