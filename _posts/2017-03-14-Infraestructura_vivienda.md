@@ -17,12 +17,8 @@ A partir de los resultados de la Encuesta Intercensal 2015 INEGI se proponen 14 
 
 
 |  |  |
-| ------------- |:-------------:|
 | ![alt text](/images-post/20170314_infviv/infraestructura_vivienda.png)|[Leer más](https://cadsalud.github.io/Infraestructura_vivienda/) |
 |Nota: La carga de información puede tomar unos segundos.. | |
-
-
-Los niveles de aproximación abarcan el plano nacional, estatal, municipal, así como, la clasificación dada por el tamaño de la localidad
 
 
 ----
