@@ -22,7 +22,7 @@ A partir de los resultados de la Encuesta Intercensal 2015 INEGI se proponen 14 
 |Nota: La carga de información puede tomar unos segundos.. | |
 
 
-
+Los niveles de aproximación abarcan el plano nacional, estatal, municipal, así como, la clasificación dada por el tamaño de la localidad
 
 
 ----
