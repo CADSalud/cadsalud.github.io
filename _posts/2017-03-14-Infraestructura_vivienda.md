@@ -15,6 +15,13 @@ La casa es el lugar donde habitamos, un hogar que representa el sitio de crianza
 A partir de los resultados de la Encuesta Intercensal 2015 INEGI se proponen 14 elementos de análisis relativos a la infraestructura instalada en viviendas mexicanas y la disponibilidad de algunos servicios generales. Temáticamente la información se muestra en 7 rubros: 
 
 
+
+|     |    |
+|:--:|:--:|
+| ![alt text](/images-post/20170314_infviv/infraestructura_vivienda.png)|[Leer más](https://cadsalud.github.io/Infraestructura_vivienda/) |
+
+
+
 Nota: La carga de información puede tomar unos segundos.. 
 
 
