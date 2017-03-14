@@ -4,7 +4,7 @@ title:  "Salud y el espacio en que vivimos"
 date:   2017-03-15
 categories: blog
 tags: vivienda  infraestructura saneamiento  servicios_basicos  ambiente_construido
-author: Gabriel del Campo
+author: Gabriela Otero, Tadeo del Campo
 ---
 * content
 {:toc}
