@@ -16,12 +16,15 @@ A partir de los resultados de la Encuesta Intercensal 2015 INEGI se proponen 14 
 
 
 
-| ![alt text](/images-post/20170314_infviv/infraestructura_vivienda.png)|[Leer más](https://cadsalud.github.io/Infraestructura_vivienda/) |
+|  |  |
 | ------------- |:-------------:|
+| ![alt text](/images-post/20170314_infviv/infraestructura_vivienda.png)|[Leer más](https://cadsalud.github.io/Infraestructura_vivienda/) |
 
 
+Nota: La carga de información puede tomar unos segundos...
 
----- 
+----
+
 
 Nota: La carga de información dinámica en la [liga ](https://cadsalud.github.io/Infraestructura_vivienda/) requiere un poco de tiempo. 
 
