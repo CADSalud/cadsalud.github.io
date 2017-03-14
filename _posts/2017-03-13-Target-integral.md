@@ -24,7 +24,7 @@ Si tuviéramos que enlistar las capacidades fundamentales del análisis avanzado
 3. **Variedad.** La capacidad de interpretar objetos, imágenes y/o textos potencializa el universo de posibilidades de análisis de información.
 
 
-La ciencia de datos combina las técnicas estadísticas más robustas con la capacidad de análisis avanzado de Big Data mediante el uso de software estadístico, permitiendo brindar un análisis más profundo de la información y llevando el término "Advance Analytics" al nivel de "Predictive Analytics".
+La ciencia de datos combina las técnicas estadísticas más robustas con la capacidad de análisis avanzado de Big Data mediante el uso de software estadístico, permitiendo brindar un análisis más profundo de la información y llevando el término "Advanced Analytics" al nivel de "Predictive Analytics".
 
 Un ejemplo práctico de los posibles alcances de la ciencia de datos dentro de la industria farmacéutica podría ser el target integral de médicos y farmacias. Para poder contextualizar la utilidad de esta iniciativa, es necesario conocer la información disponible actualmente y la manera en que se ha realizado esta práctica durante los últimos años.
 
