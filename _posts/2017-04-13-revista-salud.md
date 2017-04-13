@@ -19,8 +19,7 @@ interdisciplinaria y de publicación bimestral que promueve la aplicación de la
 solución de los problemas de salud de la población mediante la comunicación de evidencia científica y la publicación de investigación original, 
 estimalando así la reflexión científica en el campo de la salud.
 
-Recientemente se ha publicado el vol. 59,núm. 2 de esta revista, cuya versión electrónica se puede consultar en la siguiente [liga]
-(http://www.saludpublica.mx/index.php/spm/issue/view/496/showToc).
+Recientemente se ha publicado el vol. 59,núm. 2 de esta revista, cuya versión electrónica se puede consultar en la siguiente [liga](http://www.saludpublica.mx/index.php/spm/issue/view/496/showToc).
 
 Para más información con respecto a las actividades del CAD Salud, puedes visitar nuestra página 
 [https://www.cadsalud.org/](https://www.cadsalud.org/) o contactarnos en el correo gabriela.otero@cadsalud.org.
