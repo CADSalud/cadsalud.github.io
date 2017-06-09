@@ -15,7 +15,7 @@
     var demoContent = [
 {
         demo_link: 'https://cadsalud.github.io/Infraestructura_vivienda/',
-        img_link: 'https://cadsalud.github.io/images-post/20170314_infviv/infraestructura_vivienda.png',
+        img_link: 'https://cadsalud.github.io/images-post/2017-06-08-asesinato_periodistas/01_ww_trend.png',
         code_link: 'https://cadsalud.github.io/Infraestructura_vivienda/',
         title: 'Salud y el espacio en que vivimos',
         core_tech: ' JS, CSS3, HTML5, Postgresql, R ',
