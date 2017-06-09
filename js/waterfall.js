@@ -14,13 +14,6 @@
      */
     var demoContent = [
 {
-        demo_link: 'https://cadsalud.github.io/2017/06/08/asesinato_periodistas/',
-        img_link: 'https://cadsalud.github.io/images-post/2017-06-08-asesinato_periodistas/01_ww_trend.png',
-        code_link: 'https://cadsalud.github.io/2017/06/08/asesinato_periodistas/',
-        title: 'Asesinatos de Periodistas',
-        core_tech: ' R ',
-        description: 'A raíz de los conflictos sociales al rededor del mundo se ha observado un incremento en la amenaza a la libertad de expresión y libertad ...'
-        },{
         demo_link: 'https://cadsalud.github.io/Infraestructura_vivienda/',
         img_link: 'https://cadsalud.github.io/images-post/20170314_infviv/infraestructura_vivienda.png',
         code_link: 'https://cadsalud.github.io/Infraestructura_vivienda/',
