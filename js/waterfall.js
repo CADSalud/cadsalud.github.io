@@ -20,15 +20,14 @@
         title: 'Asesinatos de Periodistas',
         core_tech: ' R ',
         description: 'A raíz de los conflictos sociales al rededor del mundo se ha observado un incremento en la amenaza a la libertad de expresión y libertad ...'
-        },
+        },{
         demo_link: 'https://cadsalud.github.io/Infraestructura_vivienda/',
         img_link: 'https://cadsalud.github.io/images-post/20170314_infviv/infraestructura_vivienda.png',
         code_link: 'https://cadsalud.github.io/Infraestructura_vivienda/',
         title: 'Salud y el espacio en que vivimos',
         core_tech: ' JS, CSS3, HTML5, Postgresql, R ',
         description: 'La casa es el lugar donde habitamos, un hogar que representa el sitio de crianza, educación, esparcimiento, seguridad, descanso y mucho más ...'
-        },
-		{
+        },{
         demo_link: 'https://cadsalud.github.io/_posts/2017-03-13-Target-integral/',
         img_link: 'https://cadsalud.github.io/images-post/20170313target_integral/01_logo.png',
         code_link: 'https://cadsalud.github.io/_posts/2017-03-13-Target-integral/',
