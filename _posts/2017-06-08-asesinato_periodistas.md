@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#En el recuento de los daños"
+title:  "En el recuento de los daños"
 date:   2017-06-14 
 categories: blog
 tags: asesinato periodistas libertad expresión
