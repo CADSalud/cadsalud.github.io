@@ -4,7 +4,7 @@ title:  "Estrategias para Impulsar desde HOY la Adherencia al Tratamiento"
 date:   2017-06-29 
 categories: blog
 tags: adherencia lealtad probabilidad crónicas
-author: Sonia Mendizábal
+author: Roberto Acevedo
 ---
 * content
 {:toc}
