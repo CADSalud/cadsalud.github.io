@@ -15,7 +15,7 @@
     var demoContent = [
 {
         demo_link: 'https://cadsalud.github.io/2017/06/29/adherencia/',
-        img_link: 'https://cadsalud.github.io/images-post/2017-06-08_adherencia/imagen1.png',
+        img_link: 'https://cadsalud.github.io/images-post/2017-06-29_adherencia/imagen1.png',
         code_link: 'https://cadsalud.github.io/2017/06/29/adherencia/',
         title: 'Estrategias para Impulsar desde HOY la Adherencia al Tratamiento',
         core_tech: ' ',
