@@ -10,7 +10,7 @@ author: Sonia Mendizábal
 {:toc}
 Anteriormente habíamos platicado acerca del boom del “Big Data” y de cómo el análisis predictivo nos puede apoyar en la construcción de estrategias enfocadas en el paciente en el artículo: [Target integral de médicos y farmacias: Las bondades de la ciencia de datos en la industria farmacéutica](https://cadsalud.github.io/2017/03/13/Target-integral/) En esta ocasión abordaremos un tema muy importante, el cuál puede tener un impacto directo en la salud de los pacientes: **la adherencia**.
 
-<img src="/images-post/2017-06-29adherencia/imagen1.png" width="380">
+<img src="/images-post/2017-06-29_adherencia/imagen1.png" width="380">
 
 
 
@@ -21,7 +21,7 @@ En la actualidad, los programas de apoyo a pacientes **(PSP)** o programas de le
 
 Observando detalladamente las actividades que realiza el programa de apoyo a pacientes, la mayoría de las veces no se realizan acciones específicas para cada tipo de paciente, por lo que los resultados de implementar estrategias de manera general pueden variar entre estos.
 
-<img src="/images-post/2017-06-29adherencia/imagen2.png" width="540">
+<img src="/images-post/2017-06-29_adherencia/imagen2.png" width="540">
 
 Pero, ¿Cómo podemos incrementar la adherencia con las actividades que se realizan actualmente?, ¿Cómo volver más eficientes las actividades del programa de apoyo a pacientes?
 
@@ -29,13 +29,13 @@ Pero, ¿Cómo podemos incrementar la adherencia con las actividades que se reali
 
 Un primer paso para poder contar con información que facilite el diseño de estrategias y la toma de decisión con respecto a la adherencia es la estratificación de pacientes con el fin de conocer los atributos que caracterizan una mejor adherencia.
 
-<img src="/images-post/2017-06-29adherencia/imagen3.png" width="540">
+<img src="/images-post/2017-06-29_adherencia/imagen3.png" width="540">
 
 Si bien este paso no representa un reto técnico tan complejo, es fundamental poder entender el comportamiento de los diferentes tipos de pacientes para poder definir estrategias focalizadas a cada segmento.
 
 Una vez que se conocen las características que definen una buena adherencia, se puede utilizar la ciencia de datos para construir modelos predictivos que permitan ver las probabilidades de deserción para cada momento en el tiempo, lo que facilitará la implementación de acciones oportunas que refuercen la adherencia para cada tipo de paciente, pasando así de estrategias reactivas y generalizadas, a estrategias proactivas y focalizadas.
 
-<img src="/images-post/2017-06-29adherencia/imagen4.png" width="540">
+<img src="/images-post/2017-06-29_adherencia/imagen4.png" width="540">
 
 Esta iniciativa tiene una doble función, ya que además de buscar incrementar la adherencia de los pacientes a través de un mejor acompañamiento, permite realizar las acciones de reforzamiento dirigidas y mejor coordinadas, lo que puede reducir los costos de implementación.
 
