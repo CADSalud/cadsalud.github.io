@@ -45,7 +45,6 @@ Si deseas conocer más acerca de la ciencia de datos y de sus posibles aplicacio
 
 [CAD Salud - Servicios para el Sector Farmacéutico](https://www.cadsalud.org/sector-farmaceutico)
 
-O si lo prefieres, puedes contactarnos en el correo 
+O si lo prefieres, puedes contactarnos en el correo:
 
 <mailto:gabriela.otero@cadsalud.org>
-<gabriela.otero@cadsalud.org>
