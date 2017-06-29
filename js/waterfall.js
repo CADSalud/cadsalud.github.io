@@ -14,7 +14,14 @@
      */
     var demoContent = [
 {
-        demo_link: 'https://cadsalud.github.io/2017/06/08/asesinato_periodistas/',
+        demo_link: 'https://cadsalud.github.io/2017/06/29/adherencia/',
+        img_link: 'https://cadsalud.github.io/images-post/2017-06-08_adherencia/imagen1.png',
+        code_link: 'https://cadsalud.github.io/2017/06/29/adherencia/',
+        title: 'Estrategias para Impulsar desde HOY la Adherencia al Tratamiento',
+        core_tech: ' ',
+        description: 'Anteriormente habíamos platicado acerca del boom del “Big Data” y de cómo el análisis predictivo nos puede apoyar en la construcción de ...'
+        },{
+	demo_link: 'https://cadsalud.github.io/2017/06/08/asesinato_periodistas/',
         img_link: 'https://cadsalud.github.io/images-post/2017-06-08-asesinato_periodistas/01_ww_trend.png',
         code_link: 'https://cadsalud.github.io/2017/06/08/asesinato_periodistas/',
         title: 'Asesinatos de Periodistas',
