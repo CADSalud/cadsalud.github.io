@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Estrategias para Impulsar desde HOY la Adherencia al Tratamiento"
+title:  "Estrategias para impulsar desde HOY la adherencia al tratamiento"
 date:   2017-06-29 
 categories: blog
 tags: adherencia lealtad probabilidad crónicas
@@ -8,7 +8,7 @@ author: Roberto Acevedo
 ---
 * content
 {:toc}
-Anteriormente habíamos platicado acerca del boom del “Big Data” y de cómo el análisis predictivo nos puede apoyar en la construcción de estrategias enfocadas en el paciente en el artículo: [Target integral de médicos y farmacias: Las bondades de la ciencia de datos en la industria farmacéutica](https://cadsalud.github.io/2017/03/13/Target-integral/) En esta ocasión abordaremos un tema muy importante, el cuál puede tener un impacto directo en la salud de los pacientes: **la adherencia**.
+Anteriormente habíamos platicado acerca del boom del “Big Data” y de cómo el análisis predictivo nos puede apoyar en la construcción de estrategias enfocadas en el paciente en el artículo: [Target integral de médicos y farmacias: Las bondades de la ciencia de datos en la industria farmacéutica.](https://cadsalud.github.io/2017/03/13/Target-integral/) En esta ocasión abordaremos un tema muy importante, el cual puede tener un impacto directo en la salud de los pacientes: **la adherencia**.
 
 <img src="/images-post/2017-06-29_adherencia/imagen1.png" width="380">
 
@@ -25,9 +25,9 @@ Observando detalladamente las actividades que realiza el programa de apoyo a pac
 
 Pero, ¿Cómo podemos incrementar la adherencia con las actividades que se realizan actualmente?, ¿Cómo volver más eficientes las actividades del programa de apoyo a pacientes?
 
-**Una solución innovadora es el análisis predictivo.**
+**Una solución innovadora es el análisis predictivo**
 
-Un primer paso para poder contar con información que facilite el diseño de estrategias y la toma de decisión con respecto a la adherencia es la estratificación de pacientes con el fin de conocer los atributos que caracterizan una mejor adherencia.
+Un primer paso para poder contar con información que facilite el diseño de estrategias y la toma de decisión con respecto a la adherencia, es la estratificación de pacientes con el fin de conocer los atributos que caracterizan una mejor adherencia.
 
 <img src="/images-post/2017-06-29_adherencia/imagen3.png" width="540">
 
