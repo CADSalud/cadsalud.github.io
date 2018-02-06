@@ -15,7 +15,7 @@
     var demoContent = [
 {
     demo_link: 'https://cadsalud.github.io/2018/02/06/segmentacion/',
-        img_link: 'https://cadsalud.github.io/images-post/2018-02-26-segmentacion/long_tail.png',
+        img_link: 'https://cadsalud.github.io/images-post/2018-02-06-segmentacion/long_tail.png',
         code_link: 'https://cadsalud.github.io/2018/02/06/segmentacion/',
         title: 'La segmentación y el mercado electoral',
         core_tech: ' ',
