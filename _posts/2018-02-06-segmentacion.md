@@ -24,14 +24,14 @@ La necesidad imperante del ser humano para acentuar diferencias entre grupos e i
 Dicha capacidad de enfoque quedó manifiesta en el éxito de la campaña de reelección de Obama en 2012, en la cual **Rayid Ghani** contribuyó a definir estrategias basadas en preferencias individuales con grandes cantidades de datos; en contraparte, una estrategia similar siguió **Cambridge Analytica** para lograr el sí del Brexit  y que Trump ganara la presidencia de los Estados Unidos.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=C2kq91P_jqc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/C2kq91P_jqc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://youtu.be/c_SlD7D_xug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Para bien o para mal, clasificar nos ayuda a dirigirnos de forma contundente a un grupo. La gran cantidad de datos disponibles y la heterogeneidad de las poblaciones analizadas, nos obligan a mirar más allá de los grupos obvios y fijarnos en aquellos pequeños grupos que no son los más populares, pero que agregados representan un mercado muy grande, a este concepto **Chris Anderson** lo definió como *The Long Tail* para explicar el éxito de compañías como **Amazon** o **Netflix** en las cuales su modelo de negocio no está en vender más de los productos más populares, sino vendiendo menos, pero de una gran cantidad de productos:
 
 
-<img src="https://github.com/jdlampon/imagenes/blob/master/long_tail.png?raw=true"  width="20%" height="20%" >
+<img src="https://github.com/jdlampon/imagenes/blob/master/long_tail.png?raw=true" >
 
 Como podemos ver en la gráfica anterior, si sumamos las ventas de los productos no tan populares (azul oscuro) el volumen es similar a la venta que generan los principales productos (azul claro). El reto es conocer los perfiles de pequeños grupos que agregados generan un valor similar o en algunos casos mayor que los productos más populares.
 
