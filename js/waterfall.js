@@ -14,6 +14,13 @@
      */
     var demoContent = [
 {
+    demo_link: 'https://cadsalud.github.io/2018/02/06/segmentacion/',
+        img_link: 'https://cadsalud.github.io/images-post/2018-02-26-segmentacion/long_tail.png',
+        code_link: 'https://cadsalud.github.io/2018/02/06/segmentacion/',
+        title: 'La segmentación y el mercado electoral',
+        core_tech: ' ',
+        description: 'En este año electoral surgirán muchos datos y muchos analistas con instinto prestidigitador para pronosticar los resultados de una contienda ...'
+        },{
     demo_link: 'https://cadsalud.github.io/2018/01/29/muchosdatos/',
         img_link: 'https://cadsalud.github.io/images-post/2018-01-29-muchosdatos/ingresos_grafica.png',
         code_link: 'https://cadsalud.github.io/2018/01/29/muchosdatos/',
@@ -21,7 +28,7 @@
         core_tech: ' ',
         description: 'En este año electoral surgirán muchos datos y muchos analistas con instinto prestidigitador para pronosticar los resultados de una contienda ...'
         },{
-        demo_link: 'https://cadsalud.github.io/2017/06/29/adherencia/',
+     demo_link: 'https://cadsalud.github.io/2017/06/29/adherencia/',
         img_link: 'https://cadsalud.github.io/images-post/2017-06-29_adherencia/imagen1.png',
         code_link: 'https://cadsalud.github.io/2017/06/29/adherencia/',
         title: 'Estrategias para Impulsar desde HOY la Adherencia al Tratamiento',
