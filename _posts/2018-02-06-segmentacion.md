@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Muchos datos y poco conocimiento"
-date:   2018-01-29 
+title:  "La segmentación y el mercado electoral"
+date:   2018-02-06 
 categories: divulgación
 tags: alfabetización de datos, data literacy, animal político, plumaje
 author: David Lampón
