@@ -24,7 +24,7 @@ La necesidad imperante del ser humano para acentuar diferencias entre grupos e i
 Dicha capacidad de enfoque quedó manifiesta en el éxito de la campaña de reelección de Obama en 2012, en la cual **Rayid Ghani** contribuyó a definir estrategias basadas en preferencias individuales con grandes cantidades de datos; en contraparte, una estrategia similar siguió **Cambridge Analytica** para lograr el sí del Brexit  y que Trump ganara la presidencia de los Estados Unidos.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=C2kq91P_jqc&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=C2kq91P_jqc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://youtu.be/c_SlD7D_xug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
