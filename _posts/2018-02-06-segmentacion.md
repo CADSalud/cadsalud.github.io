@@ -25,7 +25,7 @@ Dicha capacidad de enfoque quedó manifiesta en el éxito de la campaña de reel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C2kq91P_jqc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://youtu.be/c_SlD7D_xug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c_SlD7D_xug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Para bien o para mal, clasificar nos ayuda a dirigirnos de forma contundente a un grupo. La gran cantidad de datos disponibles y la heterogeneidad de las poblaciones analizadas, nos obligan a mirar más allá de los grupos obvios y fijarnos en aquellos pequeños grupos que no son los más populares, pero que agregados representan un mercado muy grande, a este concepto **Chris Anderson** lo definió como *The Long Tail* para explicar el éxito de compañías como **Amazon** o **Netflix** en las cuales su modelo de negocio no está en vender más de los productos más populares, sino vendiendo menos, pero de una gran cantidad de productos:
 
