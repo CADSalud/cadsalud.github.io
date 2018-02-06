@@ -31,7 +31,7 @@ Dicha capacidad de enfoque quedó manifiesta en el éxito de la campaña de reel
 Para bien o para mal, clasificar nos ayuda a dirigirnos de forma contundente a un grupo. La gran cantidad de datos disponibles y la heterogeneidad de las poblaciones analizadas, nos obligan a mirar más allá de los grupos obvios y fijarnos en aquellos pequeños grupos que no son los más populares, pero que agregados representan un mercado muy grande, a este concepto **Chris Anderson** lo definió como *The Long Tail* para explicar el éxito de compañías como **Amazon** o **Netflix** en las cuales su modelo de negocio no está en vender más de los productos más populares, sino vendiendo menos, pero de una gran cantidad de productos:
 
 
-<img src="https://github.com/jdlampon/imagenes/blob/master/long_tail.png?raw=true"  width="60%" height="60%" >
+<img src="https://github.com/jdlampon/imagenes/blob/master/long_tail.png?raw=true"  width="20%" height="20%" >
 
 Como podemos ver en la gráfica anterior, si sumamos las ventas de los productos no tan populares (azul oscuro) el volumen es similar a la venta que generan los principales productos (azul claro). El reto es conocer los perfiles de pequeños grupos que agregados generan un valor similar o en algunos casos mayor que los productos más populares.
 
