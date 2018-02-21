@@ -25,7 +25,6 @@ Lamentablemente, las posibilidades de fomentar encuentros llenos de diversidad s
 La Comisión Nacional de Vivienda (CONAVI) publica los datos abiertos de la oferta de vivienda nueva en construcción o disponibles para venta en el Registro Único de Vivienda. Al analizar estos datos tomando el cierre del mes de abril del 2014 a abril del 2017, se puede determinar qué porcentaje de registros corresponden a vivienda económica y vivienda de alta plusvalía, siguiendo los propios criterios de esa institución.
 
 <img src="/images-post/2018-02-21-inmobiliaria/tabla.png" >
-*VSMMDF: Veces salario mínimo mensual en el Distrito Federal
 
 Se puede observar que las entidades con mayores registros de vivienda nueva son Nuevo León, Jalisco y el Estado de México, y las entidades con menores registros son Zacatecas, Campeche y Tlaxcala.
 
