@@ -14,6 +14,13 @@
      */
     var demoContent = [
 {
+    demo_link: 'https://cadsalud.github.io/2018/02/21/inmobiliaria/',
+        img_link: 'https://cadsalud.github.io/images-post/2018-02-21-inmobiliaria/grafica.png',
+        code_link: 'https://cadsalud.github.io/2018/02/21/inmobiliaria/',
+        title: 'Datos abiertos de las políticas públicas inmobiliarias en México',
+        core_tech: 'R',
+        description: 'Si bien la generación de espacios verdes de calidad genera paradójicamente gentrificación, planeadores urbanos, responsables de diseño de ...'
+        },{
     demo_link: 'https://cadsalud.github.io/2018/02/06/segmentacion/',
         img_link: 'https://cadsalud.github.io/images-post/2018-02-06-segmentacion/long_tail.png',
         code_link: 'https://cadsalud.github.io/2018/02/06/segmentacion/',
