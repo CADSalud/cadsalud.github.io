@@ -38,7 +38,7 @@ El tema es complejo pues de acuerdo con una investigación sobre el espacio verd
 
 En México, el sector de la vivienda podría plantear nuevas opciones para desarrollo de unidades habitacionales de acceso económico dentro de las ciudades. En el mundo existen referencias exitosas de innovación social en vivienda, aquí la referencia de algunos programas.
 
-https://www.theguardian.com/cities/2016/may/01/housing-social-innovation-ideas-from-across-world.
+[https://www.theguardian.com/cities/2016/may/01/housing-social-innovation-ideas-from-across-world.](https://www.theguardian.com/cities/2016/may/01/housing-social-innovation-ideas-from-across-world.)
 
 Por ejemplo, Viena es reconocida por contar con un modelo de vivienda social único, el 25% del inventario de vivienda es social, y se ofrecen rentas subsidiadas a través del gobierno, lo cual tiene como resultado el contar con comunidades mezcladas socialmente. 
 
