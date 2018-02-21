@@ -49,11 +49,11 @@ Este ejercicio de análisis de datos, sirve como referencia para comenzar a util
 
 Referencias:
 
-[1] Browne, A. (2016). Voces en el parque. Fondo de cultura económica.
-[2] Datos abiertos de Oferta de Vivienda Nueva, Sistema Nacional de Información e Indicadores de Vivienda, http://sniiv.conavi.gob.mx/Reports/Inv_Viv_Vig/DescargaVV.aspx
-[3] Wolch, J. R., Byrne, J., & Newell, J. P. (2014). Urban green space, public health, and environmental justice: The challenge of making cities ‘just green enough’. Landscape and Urban Planning, 125, 234-244.
-[4] Roberts, I. (2016), The experiments providing homes around the world, The Guardian, https://www.theguardian.com/cities/2016/may/01/housing-social-innovation-ideas-from-across-world.
-[5] Vienna’s Unique Social Housing Program, Edge PD&R, https://www.huduser.gov/portal/pdredge/pdr_edge_featd_article_011314.html
+- [1] Browne, A. (2016). Voces en el parque. Fondo de cultura económica.
+- [2] Datos abiertos de Oferta de Vivienda Nueva, Sistema Nacional de Información e Indicadores de Vivienda, http://sniiv.conavi.gob.mx/Reports/Inv_Viv_Vig/DescargaVV.aspx
+- [3] Wolch, J. R., Byrne, J., & Newell, J. P. (2014). Urban green space, public health, and environmental justice: The challenge of making cities ‘just green enough’. Landscape and Urban Planning, 125, 234-244.
+- [4] Roberts, I. (2016), The experiments providing homes around the world, The Guardian, https://www.theguardian.com/cities/2016/may/01/housing-social-innovation-ideas-from-across-world.
+- [5] Vienna’s Unique Social Housing Program, Edge PD&R, https://www.huduser.gov/portal/pdredge/pdr_edge_featd_article_011314.html
 
 
 * Gabriela Otero es Matemática Aplicado por el ITAM y estudia Salud Pública en el INSP. Actualmente es socia fundadora del Centro de Análisis de Datos AC, organización especializada en el procesamiento y análisis de información mediante el uso de modelos estadísticos y algoritmos computacionales aplicados a temas de salud pública y desarrollo social.
