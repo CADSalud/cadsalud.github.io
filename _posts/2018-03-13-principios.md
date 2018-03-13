@@ -26,31 +26,31 @@ Siguiendo la pedagogía del profesor mencionado y analizando el texto de las dec
 El caso de la coalición **Por México al Frente**, conformada por PAN, PRD y Movimiento Ciudadano se observan los siguientes temas relevantes en los documentos que revelan sus ideales:
 
 
-<img src="/iimages-post/2018-03-13-principios/01_pan.png" >
+<img src="/images-post/2018-03-13-principios/01_pan.png" >
 
-<img src="/iimages-post/2018-03-13-principios/02_prd.png" >
+<img src="/images-post/2018-03-13-principios/02_prd.png" >
 
-<img src="/iimages-post/2018-03-13-principios/03_mc.png" >
+<img src="/images-post/2018-03-13-principios/03_mc.png" >
 
 En este caso el PAN centra sus ideales en el desarrollo, en lo social y en la vida, también repiten el concepto de responsabilidad y dignidad. Para el PRD, la sociedad, la política y los derechos son los términos recurrentes en sus ideales, pero también sobresalen democracia, principios, igualdad, izquierda y participación, que contrasta con los intereses del PAN. Por su parte, Movimiento Ciudadano también habla de sociedad, derechos y bienestar, también se repite desarrollo, democracia e igualdad.
 
 La coalición **Juntos Haremos Historia** está formada por MORENA, PT y Encuentro Social, en este caso el resumen de palabras que representan sus temas de interés en sus declaraciones de principios se muestran a continuación:
 
-<img src="/iimages-post/2018-03-13-principios/04_morena.png" >
+<img src="/images-post/2018-03-13-principios/04_morena.png" >
 
-<img src="/iimages-post/2018-03-13-principios/05_pt.png" >
+<img src="/images-post/2018-03-13-principios/05_pt.png" >
 
-<img src="/iimages-post/2018-03-13-principios/06_pes.png" >
+<img src="/images-post/2018-03-13-principios/06_pes.png" >
 
 Las similitudes en los intereses de MORENA y PT se centran en un discurso en el que mencionan al pueblo como principal tema, aunque MORENA repite palabras como transformación, libertad y democrática, mientras la declaración del PT también menciona masas, sociedad y organizaciones; en ambos casos se menciona la palabra lucha. En esta coalición, Encuentro Social repite el concepto de política notoriamente, después valores, sociedad, dignidad y justicia, que no intersecta necesariamente con los principios de los otros dos partidos que conforman esta coalición.
 
 Finalmente, presentamos los intereses de la coalición **Todos por México** formada por PRI, PVEM y Nueva Alianza:
 
-<img src="/iimages-post/2018-03-13-principios/07_pri.png" >
+<img src="/images-post/2018-03-13-principios/07_pri.png" >
 
-<img src="/iimages-post/2018-03-13-principios/08_pvem.png" >
+<img src="/images-post/2018-03-13-principios/08_pvem.png" >
 
-<img src="/iimages-post/2018-03-13-principios/09_pna.png" >
+<img src="/images-post/2018-03-13-principios/09_pna.png" >
 
 
 Los conceptos que se intersectan en esta coalición es sociedad, desarrollo y derechos. En la declaración del PRI también se menciona principios, justicia y compromiso, por mencionar algunas. La declaratoria de principios del PVEM es considerablemente distinta, sus ideales se centran en los seres, en la vida, en la ecología, el amor y la justicia. Para Nueva Alianza instituciones, igualdad y educación saltan como temas adicionales en esta coalición.
