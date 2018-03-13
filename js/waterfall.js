@@ -14,6 +14,13 @@
      */
     var demoContent = [
 {
+    demo_link: 'https://cadsalud.github.io/2018/03/13/principios/',
+        img_link: 'https://cadsalud.github.io/images-post/2018-03-13-principios/principios_pan.png',
+        code_link: 'https://cadsalud.github.io/2018/03/13/principios/',
+        title: 'Pragmatismo y principios en los partidos políticos',
+        core_tech: 'R',
+        description: 'Entre coaliciones electorales y listas sui géneris de candidatos plurinominales se pone en duda la convicción política de los actores  ...'
+        },{
     demo_link: 'https://cadsalud.github.io/2018/02/21/inmobiliaria/',
         img_link: 'https://cadsalud.github.io/images-post/2018-02-21-inmobiliaria/grafica.png',
         code_link: 'https://cadsalud.github.io/2018/02/21/inmobiliaria/',
